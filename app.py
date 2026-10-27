@@ -1,3 +1,4 @@
+# KR2: Rychazhkov
 import os
 import socket
 
